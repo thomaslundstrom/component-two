@@ -1,6 +1,6 @@
 {
   "registry": "jspm",
-  "main": "lib/main",
+  "main": "main",
   "directories": {
     "lib": "lib"
   },
